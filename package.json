@@ -1,0 +1,11 @@
+{
+  "name": "2nd-assignment-45-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gohar Bano",
+  "license": "MIT"
+}
